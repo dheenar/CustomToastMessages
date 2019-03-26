@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>3904CC71-FD96-4AA0-B1BE-70DFD953108A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3904CC71-FD96-4AA0-B1BE-70DFD953108A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CustomToastMessages project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CustomToastMessages</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CustomToastMessages with scheme CustomToastMessages and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575284405.84596503</real>
+			<key>timeStoppedRecording</key>
+			<real>575284423.32241297</real>
+			<key>title</key>
+			<string>Building project CustomToastMessages with scheme CustomToastMessages and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3904CC71-FD96-4AA0-B1BE-70DFD953108A</string>
+		</dict>
+		<key>547381A2-67F3-4265-8022-76BFD154312E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>547381A2-67F3-4265-8022-76BFD154312E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CustomToastMessages project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CustomToastMessages</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CustomToastMessages with scheme CustomToastMessages and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575285688.08273101</real>
+			<key>timeStoppedRecording</key>
+			<real>575285707.83275104</real>
+			<key>title</key>
+			<string>Building project CustomToastMessages with scheme CustomToastMessages and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>547381A2-67F3-4265-8022-76BFD154312E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

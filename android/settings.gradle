@@ -1,0 +1,3 @@
+rootProject.name = 'CustomToastMessages'
+
+include ':app'
